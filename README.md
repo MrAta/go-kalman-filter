@@ -1,3 +1,3 @@
-#go-kalman-filter
+# go-kalman-filter
 
-A go implementation of Kalman Filters
+A go implementation of Kalman Filters.
